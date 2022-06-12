@@ -1,1 +1,0 @@
-The files for this website are witten to run from C:/Haukai
